@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe versao="4.00" Id="NFe26240605342105000495550100000952531195144105">
+            <ide>
+                <cUF>26</cUF>
+                <cNF>19514410</cNF>
+                <natOp>Remessa para industrializacao por encomenda</natOp>
+                <mod>55</mod>
+                <serie>10</serie>
+                <nNF>95253</nNF>
+                <dhEmi>2024-06-25T11:12:08-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>2</idDest>
+                <cMunFG>2607752</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>5</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>0</indFinal>
+                <indPres>9</indPres>
+                <indIntermed>0</indIntermed>
+                <procEmi>0</procEmi>
+                <verProc>008</verProc>
+            </ide>
+            <emit>
+                <CNPJ>11111111000111</CNPJ>
+                <xNome>FICTICIA LTDA</xNome>
+                <xFant>FICTICIA BRASIL</xFant>
+                <enderEmit>
+                    <xLgr>Rodovia PB 35, KM 30</xLgr>
+                    <nro>SN</nro>
+                    <xBairro>Distrito Industrial</xBairro>
+                    <cMun>111111</cMun>
+                    <xMun>JOÃO PESSOA</xMun>
+                    <UF>PE</UF>
+                    <CEP>11111111</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>8322222222</fone>
+                </enderEmit>
+                <IE>1111111</IE>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CNPJ>10794569000120</CNPJ>
+                <xNome>Y K P SANTOS ME</xNome>
+                <enderDest>
+                    <xLgr>R JOSE ALVES DA SILVA</xLgr>
+                    <nro>278</nro>
+                    <xBairro>BARRA NOVA</xBairro>
+                    <cMun>2402006</cMun>
+                    <xMun>CAICO</xMun>
+                    <UF>RN</UF>
+                    <CEP>59300000</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>0000000000</fone>
+                </enderDest>
+                <indIEDest>1</indIEDest>
+                <IE>202200515</IE>
+            </dest>
+            <det nItem="1">
+                <prod>
+                    <cProd>000000000016001275</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>FIBRA CERAMICA 25X610X1220MM</xProd>
+                    <NCM>68069090</NCM>
+                    <CFOP>6901</CFOP>
+                    <uCom>PC</uCom>
+                    <qCom>8.0000</qCom>
+                    <vUnCom>244.0000000000</vUnCom>
+                    <vProd>1952.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>PC</uTrib>
+                    <qTrib>8.0000</qTrib>
+                    <vUnTrib>244.0000000000</vUnTrib>
+                    <indTot>1</indTot>
+                    <xPed>SANDIEGO-REFUSA</xPed>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS40>
+                            <orig>0</orig>
+                            <CST>50</CST>
+                        </ICMS40>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>346</cEnq>
+                        <IPINT>
+                            <CST>52</CST>
+                        </IPINT>
+                    </IPI>
+                    <PIS>
+                        <PISNT>
+                            <CST>08</CST>
+                        </PISNT>
+                    </PIS>
+                    <COFINS>
+                        <COFINSNT>
+                            <CST>08</CST>
+                        </COFINSNT>
+                    </COFINS>
+                </imposto>
+            </det>
+            <det nItem="2">
+                <prod>
+                    <cProd>000000000000013913</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>SUCATA REFRATARIA</xProd>
+                    <NCM>38254900</NCM>
+                    <CFOP>6901</CFOP>
+                    <uCom>KG</uCom>
+                    <qCom>100.0000</qCom>
+                    <vUnCom>0.5000000000</vUnCom>
+                    <vProd>50.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>KG</uTrib>
+                    <qTrib>100.0000</qTrib>
+                    <vUnTrib>0.5000000000</vUnTrib>
+                    <indTot>1</indTot>
+                    <xPed>SANDIEGO-REFUSA</xPed>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS40>
+                            <orig>0</orig>
+                            <CST>50</CST>
+                        </ICMS40>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>346</cEnq>
+                        <IPINT>
+                            <CST>52</CST>
+                        </IPINT>
+                    </IPI>
+                    <PIS>
+                        <PISNT>
+                            <CST>08</CST>
+                        </PISNT>
+                    </PIS>
+                    <COFINS>
+                        <COFINSNT>
+                            <CST>08</CST>
+                        </COFINSNT>
+                    </COFINS>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>0.00</vBC>
+                    <vICMS>0.00</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>2002.00</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>0.00</vPIS>
+                    <vCOFINS>0.00</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>2002.00</vNF>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>4</modFrete>
+                <transporta>
+                    <CNPJ>10794569000120</CNPJ>
+                    <xNome>Y K P SANTOS</xNome>
+                    <IE>202200515</IE>
+                    <xEnder>RUA JOSE ALVES DA SILVA 278</xEnder>
+                    <xMun>CAICO</xMun>
+                    <UF>RN</UF>
+                </transporta>
+                <vol>
+                    <qVol>9</qVol>
+                    <esp>Volumes</esp>
+                    <pesoL>160.000</pesoL>
+                    <pesoB>160.000</pesoB>
+                </vol>
+            </transp>
+            <pag>
+                <detPag>
+                    <tPag>90</tPag>
+                    <vPag>0.00</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infCpl>Suspensao do ICMS. Isento ou nao sujeito a IPI. Nao incidencia da Cofins
+                    conf. INCISO I Art. 6o Lei 10.833/2003. Nao incidencia do Pis conf. Art. 5o
+                    INCISO I DA Lei 10.637/2002.. OV/IT:2044477753/1. Ped.Cli:SANDIEGO-REFUSAO/.
+                    OV/IT:2044477753/2. Ped.Cli:SANDIEGO-REFUSAO/. Fatura:9055897324. E-mail do
+                    transportador:ykpsantos@gmail.com:</infCpl>
+            </infAdic>
+            <infRespTec>
+                <CNPJ>00013314000129</CNPJ>
+                <xContato>SAP PRODUCT ENGINEERING</xContato>
+                <email>SAP.SD@VOTORANTIM.COM</email>
+                <fone>00001134753074</fone>
+                <idCSRT>01</idCSRT>
+                <hashCSRT>QZfrr0ABd33BHfLgVAjkyPE1o+4=</hashCSRT>
+            </infRespTec>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#NFe26240605342105000495550100000952531195144105">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>yNAEdYujC1uMqyQo7ICl2r3+4+4=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>
+                XP0fR63RNa3Y5CpbI8sRkGFQonxmxNkpI0v6G99eqMGP0Ua9PDmbeeGKDT57JiaMZiSA7An9LxnxoI4dGRd0wKGpWpa59J8q2bjRMHAJMmuppZ3X731A7gCa8c/RM1ZBzu9DsavWtvXezkij/CuT1Y/erKDwGHJ8ssxE3olvR/e/pHnXLkjiDHOHQYSciMND64USVR51f+K3V0z2irPWv9r81/WyxAEbb6i+mfU86kWi0h6iiXw09Yik2u4VLbBY159S4/qrHPlWFnvqBWd3ExKQHmTfLvJwlyGbeXZ0XdYQM/+tjTo17NWCtqdwG9ccT3dxTADvlYW9TbznPsqumA==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>
+                        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</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+        <infProt Id="NFe1">
+            <tpAmb>1</tpAmb>
+            <verAplic>NFEPE_P_3.4.0</verAplic>
+            <chNFe>26240605342105000495550100000952531195144105</chNFe>
+            <dhRecbto>2024-06-25T11:12:50-03:00</dhRecbto>
+            <nProt>126240056520568</nProt>
+            <digVal>yNAEdYujC1uMqyQo7ICl2r3+4+4=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>

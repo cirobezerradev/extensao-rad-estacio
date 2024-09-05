@@ -1,0 +1,5 @@
+ self.tv.bind('<ButtonRelease-1>', self.seleciona_item)
+
+  def seleciona_item(self, a):
+        selecao = self.tv.item(self.tv.selection())
+        print(selecao['values'][1])

@@ -1,0 +1,205 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe24240710794569000120550010000017911423492555" versao="4.00"
+            xmlns="http://www.portalfiscal.inf.br/nfe">
+            <ide>
+                <cUF>24</cUF>
+                <cNF>42349255</cNF>
+                <natOp>RETORNO DE MERC UTILIZADA NA INDUST POR ENCOMENDA</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>1791</nNF>
+                <dhEmi>2024-07-22T14:21:32-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>2</idDest>
+                <cMunFG>2402006</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>5</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>2</indPres>
+                <indIntermed>0</indIntermed>
+                <procEmi>0</procEmi>
+                <verProc>1.00</verProc>
+                <NFref>
+                    <refNFe>26240305342105000495550100000927931935635032</refNFe>
+                </NFref>
+            </ide>
+            <emit>
+                <CNPJ>10794569000120</CNPJ>
+                <xNome>Y K P SANTOS</xNome>
+                <enderEmit>
+                    <xLgr>Rua Jose Alves da Silva</xLgr>
+                    <nro>278</nro>
+                    <xBairro>BARRA NOVA</xBairro>
+                    <cMun>2402006</cMun>
+                    <xMun>CAICO</xMun>
+                    <UF>RN</UF>
+                    <CEP>59300000</CEP>
+                    <cPais>1058</cPais>
+                    <fone>8496771999</fone>
+                </enderEmit>
+                <IE>202200515</IE>
+                <CRT>1</CRT>
+            </emit>
+            <dest>
+                <CNPJ>11111111000111</CNPJ>
+                <xNome>FICTICIA LTDA</xNome>
+                <enderDest>
+                    <xLgr>RODOVIA PB 35</xLgr>
+                    <nro>SN</nro>
+                    <xCpl>KM 30</xCpl>
+                    <xBairro>DISTRITO INDUSTRIAL</xBairro>
+                    <cMun>111111</cMun>
+                    <xMun>JOÃO PESSOA</xMun>
+                    <UF>PB</UF>
+                    <CEP>11111000</CEP>
+                    <cPais>1058</cPais>
+                </enderDest>
+                <indIEDest>1</indIEDest>
+                <IE>1111111</IE>
+                <email>ficticia@ficticia.com</email>
+            </dest>
+            <det nItem="1">
+                <prod>
+                    <cProd>0000016001275</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>FIBRA CERAMICA REFRATARIA PLACA ESP 25MM</xProd>
+                    <NCM>68069090</NCM>
+                    <CFOP>6902</CFOP>
+                    <uCom>PC</uCom>
+                    <qCom>8.0000</qCom>
+                    <vUnCom>163.1800</vUnCom>
+                    <vProd>1305.44</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>PC</uTrib>
+                    <qTrib>8.0000</qTrib>
+                    <vUnTrib>163.1800</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMSSN102>
+                            <orig>0</orig>
+                            <CSOSN>102</CSOSN>
+                        </ICMSSN102>
+                    </ICMS>
+                    <PIS>
+                        <PISOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pPIS>0.00</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pCOFINS>0.00</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>0.00</vBC>
+                    <vICMS>0.00</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCPUFDest>0.00</vFCPUFDest>
+                    <vICMSUFDest>0.00</vICMSUFDest>
+                    <vICMSUFRemet>0.00</vICMSUFRemet>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>1305.44</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>0.00</vPIS>
+                    <vCOFINS>0.00</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>1305.44</vNF>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>3</modFrete>
+                <vol>
+                    <qVol>1</qVol>
+                    <esp>CAIXAS</esp>
+                    <pesoL>84.000</pesoL>
+                    <pesoB>84.000</pesoB>
+                </vol>
+            </transp>
+            <cobr>
+                <fat>
+                    <nFat>68</nFat>
+                    <vOrig>1305.44</vOrig>
+                    <vDesc>0.00</vDesc>
+                    <vLiq>1305.44</vLiq>
+                </fat>
+            </cobr>
+            <pag>
+                <detPag>
+                    <tPag>90</tPag>
+                    <vPag>0</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infCpl>- EMPRESA OPTANTE PELO SIMPLES NACIONAL; - ICMS SUSPENSO CONFORME ART.11, XI
+                    DO DECRETO LEI 14.878/91; - IPI SUSPENSO CONFORME ART. 42, VII DO DECRETO LEI
+                    4.455/02. -- RETORNO PARCIAL DA REMESSA REFERENTE A NFe 92793 DE 23/04/2024 DO
+                    EMITENTE CNPJ 05.342.105/0004-95 DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO
+                    SIMPLES NACIONAL. NAO GERA DIREITO A CREDITO FISCAL DE ICMS, ISS E IPI.</infCpl>
+            </infAdic>
+            <infRespTec>
+                <CNPJ>00330845000145</CNPJ>
+                <xContato>Suporte</xContato>
+                <email>emissores@sebrae.com.br</email>
+                <fone>08005700800</fone>
+            </infRespTec>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#NFe24240710794569000120550010000017911423492555">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>d97RG/rm3okIOaAg0RySgw6PqQs=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>
+                GeXME4t8uWqAW5+aS4Ag/jpgcB+GMNv88CQ3CVAfe955UUoZLyxK3ZRQSsz1lvC8TXbrV8oBlENBrq9SF3koB2rciXu794NoU01Y4Uu0I8T6EQzq2d5n/E/WPBuwUkwBdKbTJLwC75s9+/ncKgbyw5N1x0YBByypsL8vV1eidOpY6mE/5/893ihRMOwJFhmNM7GGI/lvYC6n9/LIGWqCDXE5LCD2hoyI5cNMDcVuL5yTcp9oijqbyW3/R4LW+A+UznyPqMnUhLFNG9+OpdZIxsqeIYi5kVJne4VflASJYwlFo64tJj/pMK6Y/42+O0817WoXEMsaKRcXXCqL2JRdHQ==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>
+                        MIIHZTCCBU2gAwIBAgIMClMB3lHS/AaRTX72MA0GCSqGSIb3DQEBCwUAMIGJMQswCQYDVQQGEwJCUjETMBEGA1UECgwKSUNQLUJyYXNpbDE2MDQGA1UECwwtU2VjcmV0YXJpYSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMS0wKwYDVQQDDCRBdXRvcmlkYWRlIENlcnRpZmljYWRvcmEgU0VSUFJPUkZCdjUwHhcNMjQwMjA3MTgyMTExWhcNMjUwMjA2MTgyMTExWjCB/jELMAkGA1UEBhMCQlIxCzAJBgNVBAgMAlJOMQ4wDAYDVQQHDAVDQUlDTzETMBEGA1UECgwKSUNQLUJyYXNpbDEZMBcGA1UECwwQdmlkZW9jb25mZXJlbmNpYTEXMBUGA1UECwwOMTE3MTc0MjEwMDAxNTQxNjA0BgNVBAsMLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFsIGRvIEJyYXNpbCAtIFJGQjETMBEGA1UECwwKQVJMSURFUlNJUzEWMBQGA1UECwwNUkZCIGUtQ05QSiBBMTEkMCIGA1UEAwwbWSBLIFAgU0FOVE9TOjEwNzk0NTY5MDAwMTIwMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqGPpxhEH2AdT9MVhFg16VlDS8l0Ri4q1mt5wHCbwUCCkAaFVcZKcO2ZERBtrhX825KzBvhdWoTh+6BwJfATr+PLlSJHqIK2ZODo01HetGaqFrJDlnCwFxVfV4PLL/m/yZoWq8fyUz2QaaQquRABrr6c2xBJvuc2n/eX2BTaR3PqGrTFz9XyKp0Dv3Usuoo6qyxGs1ZASAY5wOrpNlAEmLweirH0QAybaiy0wSYbtK7xkPYDogDLp/lwkfoN6lUy1XyuQaZEk2KAl9/JUPHgrsMyKXZm7iCT+Cf63Fc75Ja5VwY8p9vCGSnPXqWGSQlZPrGdA14GuSMN8VyzNoooEsQIDAQABo4ICVDCCAlAwHwYDVR0jBBgwFoAUFIAtnX6aRcDxWz8Z1UCwby9l4OkwgYgGA1UdHwSBgDB+MDygOqA4hjZodHRwOi8vcmVwb3NpdG9yaW8uc2VycHJvLmdvdi5ici9sY3IvYWNzZXJwcm9yZmJ2NS5jcmwwPqA8oDqGOGh0dHA6Ly9jZXJ0aWZpY2Fkb3MyLnNlcnByby5nb3YuYnIvbGNyL2Fjc2VycHJvcmZidjUuY3JsMFYGCCsGAQUFBwEBBEowSDBGBggrBgEFBQcwAoY6aHR0cDovL3JlcG9zaXRvcmlvLnNlcnByby5nb3YuYnIvY2FkZWlhcy9hY3NlcnByb3JmYnY1LnA3YjCBvQYDVR0RBIG1MIGyoDgGBWBMAQMEoC8ELTE2MDQxOTc5MDA4MTI5Mjk0NTQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMKAtBgVgTAEDAqAkBCJZQVNOTkFKQVJBIEtBTFlBTk5FIFBFUkVJUkEgU0FOVE9ToBkGBWBMAQMDoBAEDjEwNzk0NTY5MDAwMTIwoBcGBWBMAQMHoA4EDDAwMDAwMDAwMDAwMIETWUtQU0FOVE9TQEdNQUlMLkNPTTAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwQGCCsGAQUFBwMCMFsGA1UdIARUMFIwUAYGYEwBAgEKMEYwRAYIKwYBBQUHAgEWOGh0dHA6Ly9yZXBvc2l0b3Jpby5zZXJwcm8uZ292LmJyL2RvY3MvZHBjYWNzZXJwcm9yZmIucGRmMA0GCSqGSIb3DQEBCwUAA4ICAQAiaze08YZuiByPNmnOlqiQSR6+YcXAS4uRKIdRQYC2XT8oa+KL684Han3jn3V5vyjlXHHnQ2u+y8uWLfwMaF4VKQPcoZyT1h+iHy3oHns+5hmd06zO0slXZkUWU/wCZIwwnF1o2/y1uFU73BenyEVhn7Jqr3C+5HHUKFf6R/a8v+yJo6P7rkfrWjxTEeJ7igFLKvqMtvX6Gl31xZIQ3+pL/oAHDn4UieTEuOxarQVbxIfWwKlnS5s4ede/mpN0UzWDXrT/nlA0XEaON3W+9TIj6Xs31d4IgB2saXkJK4LXqd40Lg2NFn0ViNhmQifYkjyV6tE4MpxcH20OL/fbwGCb/RPxjkdYCW+X93QMAllaWl20HX5la9iwnSr/ASarfVh+jhgrJjJL30Fuzx1s/kG2mA+EL0CUwXL1Voi6VKiBM6XIkFNdpfNwJ1mnlLYkOyfUfaIfGSarqkVxRCLC08ADUiHg3hO2i01Q8892oKqtfi9wRs8zop5npDFhTSEwTf5jZ4w2mWKRW6MwSaONlOcGlQrKVIB9h6RrUKhb67iECc+6//LSw8ShmjeqBI8rJKPboRwMQtCTfU/8f7ej7FVQ6vwCmu95ca50JAI9Q1QGh4ixLlgS160B2rIkxvYZqBX96QZMXzPJWN+l94wxzTuX/3LBtQFCKI05p/9b50c5gg==</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+        <infProt xmlns="http://www.portalfiscal.inf.br/nfe">
+            <tpAmb>1</tpAmb>
+            <verAplic>SVRS2407051632DR</verAplic>
+            <chNFe>24240710794569000120550010000017911423492555</chNFe>
+            <dhRecbto>2024-07-22T14:21:33-03:00</dhRecbto>
+            <nProt>224240007089228</nProt>
+            <digVal>d97RG/rm3okIOaAg0RySgw6PqQs=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>

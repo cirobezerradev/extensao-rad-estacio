@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe versao="4.00" Id="NFe26240405342105000495550100000935721506659980">
+            <ide>
+                <cUF>26</cUF>
+                <cNF>50665998</cNF>
+                <natOp>Remessa para industrializacao por encomenda</natOp>
+                <mod>55</mod>
+                <serie>10</serie>
+                <nNF>93572</nNF>
+                <dhEmi>2024-04-25T10:37:29-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>2</idDest>
+                <cMunFG>2607752</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>0</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>0</indFinal>
+                <indPres>9</indPres>
+                <indIntermed>0</indIntermed>
+                <procEmi>0</procEmi>
+                <verProc>008</verProc>
+            </ide>
+            <emit>
+                <CNPJ>11111111000111</CNPJ>
+                <xNome>FICTICIA LTDA</xNome>
+                <xFant>FICTICIA BRASIL</xFant>
+                <enderEmit>
+                    <xLgr>Rodovia PB 35, KM 30</xLgr>
+                    <nro>SN</nro>
+                    <xBairro>Distrito Industrial</xBairro>
+                    <cMun>111111</cMun>
+                    <xMun>JOÃO PESSOA</xMun>
+                    <UF>PE</UF>
+                    <CEP>11111111</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>8322222222</fone>
+                </enderEmit>
+                <IE>1111111</IE>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CNPJ>10794569000120</CNPJ>
+                <xNome>Y K P SANTOS ME</xNome>
+                <enderDest>
+                    <xLgr>R JOSE ALVES DA SILVA</xLgr>
+                    <nro>278</nro>
+                    <xBairro>BARRA NOVA</xBairro>
+                    <cMun>2402006</cMun>
+                    <xMun>CAICO</xMun>
+                    <UF>RN</UF>
+                    <CEP>59300000</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>0000000000</fone>
+                </enderDest>
+                <indIEDest>1</indIEDest>
+                <IE>202200515</IE>
+            </dest>
+            <det nItem="1">
+                <prod>
+                    <cProd>000000000000013913</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>SUCATA REFRATARIA</xProd>
+                    <NCM>38254900</NCM>
+                    <CFOP>6901</CFOP>
+                    <uCom>KG</uCom>
+                    <qCom>100.0000</qCom>
+                    <vUnCom>0.0500000000</vUnCom>
+                    <vProd>5.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>KG</uTrib>
+                    <qTrib>100.0000</qTrib>
+                    <vUnTrib>0.0500000000</vUnTrib>
+                    <indTot>1</indTot>
+                    <xPed>HENRIQUE COSTA-</xPed>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS40>
+                            <orig>0</orig>
+                            <CST>41</CST>
+                        </ICMS40>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>346</cEnq>
+                        <IPINT>
+                            <CST>52</CST>
+                        </IPINT>
+                    </IPI>
+                    <PIS>
+                        <PISNT>
+                            <CST>07</CST>
+                        </PISNT>
+                    </PIS>
+                    <COFINS>
+                        <COFINSNT>
+                            <CST>07</CST>
+                        </COFINSNT>
+                    </COFINS>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>0.00</vBC>
+                    <vICMS>0.00</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>5.00</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>0.00</vPIS>
+                    <vCOFINS>0.00</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>5.00</vNF>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>4</modFrete>
+                <transporta>
+                    <CNPJ>10794569000120</CNPJ>
+                    <xNome>Y K P SANTOS</xNome>
+                    <IE>202200515</IE>
+                    <xEnder>RUA JOSE ALVES DA SILVA 278</xEnder>
+                    <xMun>CAICO</xMun>
+                    <UF>RN</UF>
+                </transporta>
+                <vol>
+                    <qVol>7</qVol>
+                    <esp>Volumes</esp>
+                    <pesoL>100.000</pesoL>
+                    <pesoB>100.000</pesoB>
+                </vol>
+            </transp>
+            <pag>
+                <detPag>
+                    <tPag>90</tPag>
+                    <vPag>0.00</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infCpl>NAO INCIDENCIA DE QUE TRATA O INCISO III DO "CAPUT" DO ART. 3o DO
+                    RICMS/2017. Isento ou nao sujeito a IPI.. OV/IT:2043831572/1. Ped.Cli:HENRIQUE
+                    COSTA-REFUS/. Fatura:9055307137. E-mail do transportador:ykpsantos@gmail.com:</infCpl>
+            </infAdic>
+            <infRespTec>
+                <CNPJ>00013314000129</CNPJ>
+                <xContato>SAP PRODUCT ENGINEERING</xContato>
+                <email>SAP.SD@VOTORANTIM.COM</email>
+                <fone>00001134753074</fone>
+                <idCSRT>01</idCSRT>
+                <hashCSRT>X4IVaS4vlBPXZlTHvA8972JXFxQ=</hashCSRT>
+            </infRespTec>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#NFe26240405342105000495550100000935721506659980">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>EaERx5MvfBhWVHfks0j21ib5pnY=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>
+                rfTJ7xFKyMe8HHZe46FzX3mJde5LQpR9nORq/KX+YPFu5fSEO+1iLPHw+GnX1ssBH0mX0SwXSSr86HhvVdBKCSMUoRtUK0kII5QtTCJBTgDWp+mPv7bT2kIaG10furexlGneTnpQr3EGuBukW7nJcYLnSBp/S7KHJPGIVqS37z9yHuqDm49RuxnoYXd74QyVOGJuC9+LqVUhZWdZ95ncpaennzr3ElIqt4uDaAQmNxJ/QRo73yIAWGpJO9GN9b/iISUmV++/gEGSHTP2xLMxXS6V6oyaNlYnzE8KcpTzfIs6kfD78Yiv46pIEzVG/QYMeOZ3QCUsRXKgdQiobRZUIQ==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>
+                        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</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+        <infProt Id="NFe1">
+            <tpAmb>1</tpAmb>
+            <verAplic>NFEPE_P_3.0.0</verAplic>
+            <chNFe>26240405342105000495550100000935721506659980</chNFe>
+            <dhRecbto>2024-04-25T10:37:50-03:00</dhRecbto>
+            <nProt>126240036156555</nProt>
+            <digVal>EaERx5MvfBhWVHfks0j21ib5pnY=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>
